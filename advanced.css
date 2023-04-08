@@ -1,0 +1,40 @@
+#logo{
+    margin-top: 20px;
+    margin-left: 17px;
+}
+
+h2{
+    font-size: 21px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+    color: red;
+}
+#form{
+    margin-left: 50px;
+}
+.input{
+   position: relative;
+   right: -221px;
+   top: -22px;
+   width: 500px;
+   display: flex; 
+}
+#top-button{
+    border:none;
+    background-color: white;
+    color: blue;
+    text-align: end;
+}
+#ln{
+    text-align: end;
+    margin-right: 20px;
+    position: relative;
+    bottom: 100px;
+}
+#search{
+    background-color: rgb(118, 118, 223);
+    color: white;
+    position: relative;
+    left: 585px;
+    bottom: 15px;
+}
